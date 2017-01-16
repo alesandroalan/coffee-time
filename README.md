@@ -22,7 +22,7 @@ Liks para alterar:
 - http://www.meusite.com.br/images/coffee.png
 
 8 - Inserir na crontab do sistema a chamada para a execução do arquivo mail_coffee.php
-#Mail coffee será executado todos os dias as 09:00hs e as 15:00hs
+##### Mail coffee será executado todos os dias as 09:00hs e as 15:00hs
 00 09,15 * * * root php /caminho_ate_a_pasta/coffee_time/mail_coffee.php >/dev/null 2>&1
 
 *Para testar manualmente o envio:
