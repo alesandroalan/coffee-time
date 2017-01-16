@@ -1,6 +1,6 @@
 # coffee-time
 
-Este é uma sistema simples criado em php, para você cadastrar o nome e e-mail das pessoas da sua equipe de trabalho, o sistema selecionará automaticamente uma das pessoas para fazer o café e enviará um e-mail para avisar a pessoa.
+Este é um sistema simples criado em php, para você cadastrar o nome e e-mail das pessoas da sua equipe de trabalho, o sistema selecionará automaticamente uma das pessoas para fazer o café e enviará um e-mail para avisá-la.
 
 Instalação e configuração:
 
